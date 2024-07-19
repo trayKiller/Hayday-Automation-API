@@ -1,6 +1,3 @@
-### Requirements
-+ 1920 x 1080 resolution as images are taken in such.
-
 ### Scanning
 Detecting objects with this project uses a screen based scanner that compares images. Since that is being used, the same resolutions have to be used all across.
 There's a couple of ways to get around this.
