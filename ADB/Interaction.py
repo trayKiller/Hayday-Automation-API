@@ -6,7 +6,7 @@ def TapScreen(x, y):
     Args:
         x (int): The X coordinate.
         y (int): The Y coordinate.
-    """
+    """ 
     ADB.ScreenToDevice(x, y)
     print(f"Tapping at ({x}, {y})...")
     ADB.RunADBCommand(f"shell input tap {x} {y}")
@@ -24,5 +24,4 @@ def SwipeScreen(start_x, start_y, end_x, end_y, duration=500):
     """
     ADB.ScreenToDevice(start_x, start_y)
     ADB.ScreenToDevice(end_x, end_y)
-    print(f"Swiping from ({start_x}, {start_y}) to ({end_x}, {end_y}) over {duration} milliseconds...")
     ADB.RunADBCommand(f"shell input swipe {start_x} {start_y} {end_x} {end_y} {duration}")
