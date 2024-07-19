@@ -30,8 +30,6 @@ This code is how you get the basics of it working.
 
 ### Shop Support
 + Wheat
-+ Corn
-+ Soybean
 
 ### Harvest Support
 + Wheat
