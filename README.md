@@ -7,6 +7,7 @@
 ### How to use (basics)
 ```python
 import ADB.ADB as ADB
+import ADB.Settings as Settings
 
 Settings.IP = '127.0.0.1:5555'
 
