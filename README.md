@@ -1,3 +1,5 @@
+Does require bluestacks to be at least opened and visible on your monitor.
+
 ### Features
 + Harvest
 + Shop
