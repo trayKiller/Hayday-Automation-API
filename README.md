@@ -22,11 +22,11 @@ main()
 ADB.DisconnectADB()
 ```
 This code is how you get the basics of it working.
-+ You need to declare your ADB ip
-+ declare your monitor X/Y
-+ Connect to ADB
-+ declare emulator x/y
-+ disconnect from ADB when you're done with the program to avoid any problems or worries
+1. You need to declare your ADB ip
+2. declare your monitor X/Y'
+3. Connect to ADB
+4. declare emulator x/y
+5. disconnect from ADB when you're done with the program to avoid any problems or worries
 
 ### Shop Support
 + Wheat
