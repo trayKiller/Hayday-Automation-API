@@ -1,4 +1,8 @@
-Does require bluestacks to be at least opened and visible on your monitor.
+### Requirements
++ 1920 x 1080 resolution as images are taken in such.
+
+### Soon to be added
++ Multiple Resolutions
 
 ### Features
 + Harvest
