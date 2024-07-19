@@ -63,9 +63,6 @@ def ScreenToDevice(x, y):
         x (int): The X coordinate on the screen.
         y (int): The Y coordinate on the screen.
 
-    Raises:
-        ValueError: If any of the provided coordinates are negative.
-
     Returns:
         tuple: The corresponding (X, Y) coordinates on the emulator.
     """
