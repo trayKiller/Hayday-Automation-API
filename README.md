@@ -25,7 +25,7 @@ This code is how you get the basics of it working.
 1. You need to declare your ADB ip
 2. declare your monitor X/Y (default 1920x1080)
 3. Connect to ADB
-4. declare emulator x/y (default 1600x900
+4. declare emulator x/y (default 1600x900)
 5. disconnect from ADB when you're done with the program to avoid any problems or worries
 
 ### Shop Support
